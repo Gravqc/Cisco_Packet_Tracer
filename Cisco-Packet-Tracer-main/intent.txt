@@ -1,6 +1,6 @@
  -Inside main activity-
 
- String msg = "Ranjan";
+ String msg = "Gaurav";
 
         btn_Next.setOnClickListener(new View.OnClickListener() {
             @Override
